@@ -1,0 +1,14 @@
+Vai para signup e coloca o email
+
+email recebido
+
+clicar no email e preencher dados em accoundDetails
+
+de seguida ir para 1 e clicar cute cat
+
+de seguida clicar no botão criar e criar instancia
+
+veja sua instancia
+
+clicar nos detalhes da instancia e pegar os dados
+
